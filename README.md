@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Andy Li!</h1>
 
 # 💫 About Me:
-🧠 I am a Computer Science student @ Georgia Institute of Technology 🎓
-🔭 Passionate about exploring the realms of coding, AI/ML, and building intelligent, secure, and scalable tools and systems to advance everyday life 🤖💻
+🧠 I am a Computer Science student @ Georgia Institute of Technology 🎓<br />
+🔭 Passionate about exploring the realms of AI/ML and building intelligent, secure, and scalable tools to advance everyday life 🤖💻<br />
 📂 Check out my [coding portfolio!](https://andyli-portfolio.vercel.app/)
 
 ## 🌐 Connect with Me:
